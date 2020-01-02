@@ -5,7 +5,7 @@
   <meta charset="utf-8">
 </head>
 <body>
-  <h1><a href="index.html">게임 리스트</a></h1>
+  <h1><a href="index.html"><center>게임 리스트</center></a></h1>
   <ol>
     <li><a href="1.html">FM2019</a></li>
     <li><a href="2.html">Middle-earth: Shadow of War</a></li>
